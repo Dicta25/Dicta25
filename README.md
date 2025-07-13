@@ -1,16 +1,17 @@
-## Hi there 👋
+## Benedicta Opoku-Amankwaah
 
-<!--
-**Dicta25/Dicta25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Engineer | Generation Ghana AWS Trainee
 
-Here are some ideas to get you started:
+# About 
+I'm learning AWS to design and deploy cloud solutions. Check out my projects below! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Featured Projects
+AWS-Static-Site - A static site on S3 with CloudFront.
+[More to come...]
+
+# Skills
+AWS (S3, Lambda, CloudFront)
+Python
+Git
+
+Connect with me on [LinkedIn](https://linkedin.com/in/benedicta-opoku-amankwaah)!
