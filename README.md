@@ -2,7 +2,7 @@
 
 AWS Certified Solutions Architect | Product Manager | Builder
 
-## About Me
+## About 
 I design and deploy cloud solutions on AWS and build digital products 
 that solve real problems for everyday people.
 Currently building **Nkoko Adamfo**  a smart poultry farm management 
