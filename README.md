@@ -1,6 +1,6 @@
 # Hi, I'm Benedicta 
 
-AWS Certified Solutions Architect | Product Manager | Builder
+AWS Certified Solutions Architect | Product Manager 
 
 ## About 
 I design and deploy cloud solutions on AWS and build digital products 
